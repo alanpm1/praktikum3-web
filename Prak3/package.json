@@ -1,0 +1,26 @@
+{
+  "name": "prak3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prak3.js",
+  "scripts": {
+    "test": "a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "a"
+  },
+  "keywords": [
+    "a"
+  ],
+  "author": "a",
+  "license": "ISC"
+}
+"scripts": {
+  "start": "node your-script.js"
+}"scripts": {
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject"
+}
